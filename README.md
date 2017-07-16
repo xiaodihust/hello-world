@@ -7,5 +7,9 @@ After several month, now I have to restart the learning process. And this time I
 
 add some more words…
 
-#Update
+# Update
+
 finally get a bit familiar with Git...
+
+# Sync
+Now I should sync the online version to local
